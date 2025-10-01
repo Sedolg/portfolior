@@ -11,10 +11,10 @@ const Projects = {
         },
         WorkInProgress: {
             ID: "WorkInProgress",
-            Name: "Work In Progress",
-            SmallDescription: "iOS, Android, AI",
-            LargeDescription: "Have you heard my Under Construction joke?<br>It's not done yet",
-            NoOfProjectImages: 1
+            Name: "With Puppy",
+            SmallDescription: "Published Android iOS Game, C#, Unity3D, Colyseus",
+            LargeDescription: "With Puppy is play to earn style mobile game designed to encourage players to exercise. Server is build by colyseus.",
+            NoOfProjectImages: 11
         },
         TileVisualiser: {
             ID: "TileVisualiser",
@@ -81,9 +81,9 @@ const Projects = {
         },
         ChemicalCarriageway: {
             ID: "ChemicalCarriageway",
-            Name: "With Puppy",
-            SmallDescription: "Published Android Game, C#, Unity3D, Colyseus",
-            LargeDescription: 'With Puppy is play to earn style mobile game designed to encourage players to exercise. Server is build by colyseus.',
+            Name: "Motor Speed Traffic 3D GAME",
+            SmallDescription: "Android Game, C#, Unity3D",
+            LargeDescription: 'Experience the adrenaline of high-speed motorcycle racing in Motor Speed Traffic 3D! Ride through traffic-packed highways, overtake rival riders, and master your bike in thrilling challenges. With realistic 3D graphics, smooth controls, and multiple exciting modes, the road is yours to conquer.',
             DownloadLink: "https://play.google.com/store/apps/details?id=com.Blinds_FaithCC.ChemicalCarriageway",
             EmbedVideoLinkID: "LvCkvSatLFs",
             NoOfProjectImages: 5
