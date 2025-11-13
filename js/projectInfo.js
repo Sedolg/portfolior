@@ -9,6 +9,24 @@ const Projects = {
             EmbedVideoLinkID: "",
             NoOfProjectImages: 1
         },
+        SweetJarCombo: {
+            ID: "SweetJarCombo",
+            Name: "Sweet Jar Combo – Microgaming",
+            SmallDescription: "Online Casino Slot Game, Unity, C#",
+            LargeDescription: "• Implemented core gameplay mechanics and interactive UI elements for a high-quality slot game experience.<br>• Integrated animation and particle effects to enhance visual feedback for wins, combos, and bonus rounds.<br>• Optimized game performance for smooth play across desktop and mobile browsers.<br>• Collaborated with designers to ensure the gameplay felt intuitive and engaging while maintaining Microgaming's standards for casino mechanics.<br><br><b>Technologies used:</b> Unity, C#, UI Toolkit, animation systems, particle systems.",
+            DownloadLink: "",
+            EmbedVideoLinkID: "",
+            NoOfProjectImages: 5
+        },
+        FreePoker247: {
+            ID: "FreePoker247",
+            Name: "247FreePoker – Online Poker Platform",
+            SmallDescription: "Online Multiplayer Poker Game, Unity, C#",
+            LargeDescription: "• Developed client-side game logic for poker mechanics, card dealing, and betting rounds.<br>• Implemented real-time multiplayer features using network synchronization principles to ensure fair and smooth gameplay.<br>• Designed interactive UI and player dashboards for betting, chip management, and game state updates.<br>• Assisted in integrating server communication and handling state updates efficiently to reduce latency.<br><br><b>Technologies used:</b> Unity, C#, multiplayer networking, UI Toolkit, event-driven architecture.",
+            DownloadLink: "",
+            EmbedVideoLinkID: "",
+            NoOfProjectImages: 5
+        },
         WorkInProgress: {
             ID: "WorkInProgress",
             Name: "With Puppy",

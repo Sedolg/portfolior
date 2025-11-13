@@ -5,9 +5,8 @@ var RankedProjects=[
     Projects.Details.MREncyclopedia,
     Projects.Details.Snake3D,
     Projects.Details.Gameplay,
-    Projects.Details.ShiroDash,
-    Projects.Details.RiTE,
-    Projects.Details.NearbyConnections
+    Projects.Details.SweetJarCombo,
+    Projects.Details.FreePoker247
 ];
 //Functions
 SetPorfolioElements();
